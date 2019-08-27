@@ -41,6 +41,9 @@ and only then… we get to …
 
 This course will be largely taught using open source software based on Python programming language. I strongly encourage these not familiar with Python to take a crash course at LearnPython.org or DataCamp.com or many other free online courses. I will have many live-code exercises where I will talk through and code an entire problem from scratch as you watch; it’s not as hard as you may think. 
 
+## Course Materials
+Course materials will appear in folders in this Github repository. 
+
 ## Assignments
 
 This class has 3 homework assignments, roughly covering the 3 major areas of study we’ll be talking about. Each HW is split into two sections -- mindless repetition and creative improvisation 
@@ -50,6 +53,8 @@ Section 1 should be easy to anyone that didn’t sleep through all the classes a
 Section 2 will ask you to synthesize, think a bit outside the box and apply what you’ve learned. I will pull ideas for these problems from the news -- I’ll make it fun and relevant. 
 
 Section 2 will be graded on a “valiant attempt” scale -- I am looking for evidence of clear thinking and synthesizing ideas from the class with ideas from other fields and publications, not for a finished research paper. 
+
+*Project Submission* -- create a new branch on this Git repository with your name. Submit the homework to the appropriate GitHub folder (i.e. HW1 for John Doe goes into HW1 folder under john_doe branch)
 
 Note on collaboration: I encourage you to bounce ideas off of each other, especially on creative problems. However, if you receive a lot of help from someone, please thank them in a footnote. It’s good karma, and reinforces proper academic citation practice.
 
