@@ -89,7 +89,7 @@ In-class live-code: Use SD model of a flushing toilet to optimize water consumpt
 
 
 ### Sep 17
-GUEST LECTURE -- Bayesian Causal Networks -- non-deterministic system dynamics -- mixing deterministic and non-deterministic models
+GUEST LECTURE -- Bayesian Causal Networks -- non-deterministic system dynamics -- mixing deterministic and non-deterministic models -- Markov Chains and hidden Markov models
 
 Also, happy birthday to me :) I’m presenting a paper at Stanford
 
