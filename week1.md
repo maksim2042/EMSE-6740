@@ -95,8 +95,8 @@ http://jasss.soc.surrey.ac.uk/15/1/6.html
 
 * Stats, ML, Neural network models and other fancy regressions
 
-![machine_learning](https://sklearn.org/_images/sphx_glr_plot_classifier_comparison_001.png "Machine Learning")
+![machine_learning](http://sklearn.org/_images/sphx_glr_plot_classifier_comparison_001.png "Machine Learning")
 
 * Graph models.
 
-![graph_models](https://www.irex.org/sites/default/files/inline-images/visualizing-what-connects-us-social-network_0.png "Graph MOdels)
+![graph_models](https://www.irex.org/sites/default/files/inline-images/visualizing-what-connects-us-social-network_0.png "Graph MOdels")
