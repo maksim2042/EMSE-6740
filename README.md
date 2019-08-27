@@ -13,6 +13,15 @@ Phone: 412-519-4304
 E-mail: maksim@tsvetovat.org
 Office hours: THURSDAYS 4:00-6:00pm or by appointment
 
+### Communication
+Course slack channel is here: 
+
+https://join.slack.com/t/emse-6740/shared_invite/enQtNzI4NjY4MTU5NjgyLTAwMjViOTIxMGZlYmMyOWI4NDg1ZWYwZWYyZWYxY2VjY2FkOWZiMDg1ODMyY2UyNTI5NWVlMzJkZDE5NWYyMzQ
+
+You can email me at maksim@tsvetovat.org, or text my cell number at any time. 
+
+Please do NOT call me unless we have a pre-arranged time for a phone call, more often than not I'm in a meeting and can't answer. 
+
 ## Bulletin Course Description
 Introduction to systems thinking and the system dynamics approach to policy analysis, with applications to business management and public policy. Causal-loop and stock and flow models of business growth, technology adoption, and marketing. Use of role-based games to explain key principles of systems. Use of simulation software to model problems and case studies.
 
