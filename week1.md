@@ -80,8 +80,23 @@ http://jasss.soc.surrey.ac.uk/15/1/6.html
 ## How do we model? 
 
 * System dynamics
-* Microsimulation 
-* Markov chains / causal networks
-* Agent based models 
+
+![system_dynamics](https://en.wikipedia.org/wiki/System_dynamics#/media/File:Adoption_SFD_ANI_s.gif "System Dynamics gif")
+
+* Microsimulation
+
+![sandpile](http://www.cmth.ph.ic.ac.uk/people/k.christensen/research/figures/sandpile.gif "Sandpile Model")
+
+* Markov chains / Bayesian networks / causal networks
+
+![markov_chain](https://www.mathpages.com/home/kmath494/kmath494_files/image002.gif "Markov Chain Model")
+
+* Agent based models
+
 * Stats, ML, Neural network models and other fancy regressions
+
+![machine_learning](https://sklearn.org/_images/sphx_glr_plot_classifier_comparison_001.png "Machine Learning")
+
 * Graph models.
+
+![graph_models](https://www.irex.org/sites/default/files/inline-images/visualizing-what-connects-us-social-network_0.png "Graph MOdels)
