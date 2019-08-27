@@ -58,6 +58,18 @@ http://jasss.soc.surrey.ac.uk/15/1/6.html
 
 ## What do we model
 * drawing system boundaries — is a variable necessary, sufficient, or extraneous and confounding?
+
+(from https://realkm.com/2017/11/07/the-process-of-modeling-model-boundaries-systems-thinking-modelling-series/)
+    ** Endogenous: Endogenous items are at the core of the model. They are things that the model itself determines. For instance, the size of the hamster population is endogenous to the model. The model itself simulates this population.
+
+    ** Exogenous: Exogenous items are those that you include in the model but which you do not directly simulate. For instance, if we thought temperature had a significant effect on hamster survival, we might want to include historical temperature data in the model. We do not want to simulate this data though, we just want to use it as an exogenous input into the model.
+
+    ** Omitted: Omitted items are those that we choose not to include in the model, even though we may acknowledge their existence and potential (direct or indirect) impact on the hamsters. Even the most ambitious and comprehensive model will need to draw the line somewhere.
+    
+![alt text](system_boundaries.png "System Boundaries")
+
+
+
 * time scales  — fast and slow processes
 
 ## Defining model elements
