@@ -32,8 +32,9 @@ You are a FEMA admin charged with estimating hurricane damage, as it makes direc
 Please attempt EVERY question. If you get stuck, talk to folks on Slack or talk to me. If you get REALLY REALLY stuck, describe in detail WHY you're stuck. 
 
 Legitimate reasons for stuckness: 
-(1) problem is badly specified -- this is given. Redefine the problem as you see fit, describe your reasoning and sally forth 
 
-(2) model does not converge and I can't make it converge 
+#1 problem is badly specified -- this is given. Redefine the problem as you see fit, describe your reasoning and sally forth 
 
-(3) Max, you're full of it. I agree, I'm full of it. ;-) 
+#2 model does not converge and I can't make it converge 
+
+#3 Max, you're full of it. I agree, I'm full of it. ;-) 
