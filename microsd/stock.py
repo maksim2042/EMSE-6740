@@ -15,6 +15,8 @@ class Stock(object):
 		self.upper_limit=upper_limit
 		self.lower_limit = lower_limit
 
+
+
 	def step(self):
 		total_inflow = sum([inf.step() for inf in self.in_flows])
 		total_outflow = sum([outf.step() for outf in self.out_flows])

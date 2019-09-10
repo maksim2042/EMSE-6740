@@ -23,3 +23,10 @@ class LinearEQFlow(Flow):
 	def update_rate(self):
 		self.rate = sum([d.value * weight for d, weight in self.dependencies.items()])
 		return(self.rate)
+
+class ExponentialFlow(Flow):
+	dependencies = {}
+
+	def update_rate(self):
+		self.rate = sum([d.value ** exponent for d, exponent in self.dependencies.items()])
+		return(self.rate)
