@@ -1,5 +1,8 @@
 # Epidemic Modeling
 
+Please take your time to inhale some of this material. 
+The topic is "epidemic modeling" -- super simple to start with, but a lot of depth once you dig in. Let's discuss on Slack -- once you have looked at it for some time, think about this stuff and post more related things on Slack. This has implications in politics, spread of ideas and innovations, etc. 
+
 ## Reading: 
 
 ### A light introduction to modelling recurrentepidemics
