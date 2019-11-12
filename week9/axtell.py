@@ -81,6 +81,6 @@ for i in range(1000):
 
 import pandas as pd
 agent_wealth = pd.DataFrame([{'id':a.unique_id, 'w':a.utility} for a in model.schedule.agents])
-firms = [f for f in model.schedule.agents if isinstance(f,Firm)]
+firms = [f for f in model.schedule.agents if isinstance(f,Firm) and not f.dead]
 firm_wealth = pd.DataFrame([{'id':f.unique_id, 'size':len(f.agents),'w':f.utility} for f in firms])
 
